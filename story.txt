@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ronald is a fire breathing dragon with green and blue scales. He lives in the Tahoe National Forest in California right next to Fallen Leak Lake. His job is to light the campfires for people who come to visit. 
 
+=======
+
+>>>>>>> 37369070193a86aa26a5f2ca51f2547075d131a9
